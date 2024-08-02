@@ -18,11 +18,11 @@ This is quick and dirty implementation, something will probably won't work for y
 
 ## Features
 
-- **Quick Note Creation**: Quickly create and manage notes.
-- **Template Selection**: Choose from predefined templates for your notes.
-- **Note Searching**: Search through your notes easily.
-- **Git Integration**: Commit and push your notes to a Git repository.
-- **Floating Windows**: Use floating windows for quick notes.
+- **Quick Note Creation**: Quick note for random stuff
+- **Template Selection**: You can predefine custom template for notes
+- **Note Searching**: telescope grep integration (if you have telescope installed ofc)
+- **Git Integration**: notes can be pushed and commited
+- **List Notes**: telescope integration that shows all existing notes
 
 ## Installation
 
