@@ -1,6 +1,6 @@
 # sketchbook.nvim - simple notetaking
 
-Motivationg behind this thing, that I tried lots of notetaking tools but nothing really clicked.
+Motivation behind this thing, that I tried lots of notetaking tools but nothing really clicked.
 I didn't want to leave nvim and it's not really convenient to manage ~/notes directory. 
 
 
