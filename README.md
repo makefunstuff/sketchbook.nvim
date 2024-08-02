@@ -6,7 +6,7 @@ I didn't want to leave nvim and it's not really convenient to manage ~/notes dir
 
 ## Demo
 
-![](./demo.mp4)
+<video src='demo.mp4' width=180/>
 
 ## Warn
 
