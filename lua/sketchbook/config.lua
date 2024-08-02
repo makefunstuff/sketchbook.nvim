@@ -87,7 +87,7 @@ function M.set_keymaps()
 	vim.api.nvim_set_keymap(
 		"n",
 		keymaps.list_notes,
-		':lua require("plugins.sketchbook.list_notes").list_all_notes()<CR>',
+		':lua require("sketchbook.list_notes").list_all_notes()<CR>',
 		{ noremap = true, silent = true, desc = "List all notes" }
 	)
 end
