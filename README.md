@@ -6,7 +6,7 @@ I didn't want to leave nvim and it's not really convenient to manage ~/notes dir
 
 ## Demo
 
-![](demo.mp4)
+![](./demo.mp4)
 
 ## Warn
 
