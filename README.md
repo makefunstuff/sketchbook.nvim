@@ -29,6 +29,7 @@ Add the following to your `lazy.nvim` configuration:
 require('lazy').setup({
     {
         'makefunstuff/sketchbook.nvim',
+        lazy = false,
         config = function()
             require('sketchbook').setup({
                 notes_directory = "~/my_notes/",
