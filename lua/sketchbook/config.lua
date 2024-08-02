@@ -8,13 +8,13 @@ M.defaults = {
 		create_note = "<leader>tnn",
 		update_index = "<leader>tui",
 		search_notes = "<leader>tns",
+		list_notes = "<leader>tnl",
 		select_template = "<leader>tmp",
 		toggle_quick_note = "<leader>qc",
 		create_quick_note = "<leader>nq",
 		open_entire_quick_note = "<leader>qo",
 		commit_notes = "<leader>tgc",
 		push_notes = "<leader>tgp",
-		list_notes = "<leader>tln",
 	},
 }
 
