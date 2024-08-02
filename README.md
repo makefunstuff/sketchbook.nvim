@@ -1,7 +1,6 @@
 # sketchbook.nvim - simple notetaking
 
-Motivation behind this thing, that I tried lots of notetaking tools but nothing really clicked.
-I didn't want to leave nvim and it's not really convenient to manage ~/notes directory. 
+Motivation behind this plugin is simple, I want to keep my notes in markdown files and make nvim features help me to manage it.
 
 
 ## Demo
@@ -14,7 +13,7 @@ https://github.com/user-attachments/assets/ddd785f1-aea4-40b3-8422-d75efd82bfc1
 
 ## Warn
 
-This was quick and dirty implementation, so not everything will perfectly because currently its in "works on my machine" state.
+This is quick and dirty implementation, something will probably won't work for you. Currently it's in 'works on my machine' state.
 
 
 ## Features
