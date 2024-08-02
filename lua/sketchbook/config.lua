@@ -3,13 +3,11 @@ local M = {}
 -- Default configuration
 M.defaults = {
 	notes_directory = "~/notes",
-	templates_directory = "~/notes/templates/",
 	keymaps = {
 		create_note = "<leader>tnn",
 		update_index = "<leader>tui",
 		search_notes = "<leader>tns",
 		list_notes = "<leader>tnl",
-		select_template = "<leader>tmp",
 		toggle_quick_note = "<leader>qc",
 		create_quick_note = "<leader>nq",
 		open_entire_quick_note = "<leader>qo",
@@ -47,12 +45,6 @@ function M.set_keymaps()
 		keymaps.search_notes,
 		':lua require("sketchbook.search_notes").search_notes()<CR>',
 		{ noremap = true, silent = true, desc = "Search notes" }
-	)
-	vim.api.nvim_set_keymap(
-		"n",
-		keymaps.select_template,
-		':lua require("sketchbook.select_template").select_template()<CR>',
-		{ noremap = true, silent = true, desc = "Select a note template" }
 	)
 	vim.api.nvim_set_keymap(
 		"n",

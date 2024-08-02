@@ -19,7 +19,6 @@ This is quick and dirty implementation, something will probably won't work for y
 ## Features
 
 - **Quick Note Creation**: Quick note for random stuff
-- **Template Selection**: You can predefine custom template for notes
 - **Note Searching**: telescope grep integration (if you have telescope installed ofc)
 - **Git Integration**: notes can be pushed and commited
 - **List Notes**: telescope integration that shows all existing notes
@@ -61,6 +60,6 @@ require('lazy').setup({
 
 ## TODO:
 
-- [ ] improve git Integration
-- [ ] fix telescope issues with indexing
-- [ ] add auto indexing
+- [x] improve git Integration
+- [x] fix telescope issues with indexing
+- [x] add auto indexing (solved with telescope)
