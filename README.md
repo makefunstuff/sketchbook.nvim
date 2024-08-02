@@ -4,6 +4,10 @@ Motivation behind this thing, that I tried lots of notetaking tools but nothing 
 I didn't want to leave nvim and it's not really convenient to manage ~/notes directory. 
 
 
+## Demo
+
+![](demo.mp4)
+
 ## Warn
 
 This was quick and dirty implementation, so not everything will perfectly because currently its in "works on my machine" state.
