@@ -6,7 +6,7 @@ I didn't want to leave nvim and it's not really convenient to manage ~/notes dir
 
 ## Demo
 
-[![Watch the video](https://github.com/makefunstuff/sketchbook.nvim/raw/main/demo.mp4)
+![Watch the video](https://github.com/makefunstuff/sketchbook.nvim/raw/main/demo.mp4)
 
 ## Warn
 
